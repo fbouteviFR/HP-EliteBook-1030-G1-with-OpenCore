@@ -8,7 +8,7 @@ Currently running:
 | ------------- | ------------ |
 | macOS version | 11.3 (20E232) |
 | OpenCore      | 0.6.8        |
-| BIOS version  | 1.38N86 Ver. 01.44  10/31/2019        |
+| BIOS version  | N86 Ver. 01.44  10/31/2019        |
 
 ## Hardware info
 
