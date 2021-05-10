@@ -2,6 +2,8 @@
 
 ### Status: Running
 
+You can download above the content of EFI partition.
+
 Currently running:
 
 | Component     | Version      |
